@@ -1,0 +1,11 @@
+name: disk-defect-toy-model
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - jupyter
