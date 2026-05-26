@@ -21,5 +21,5 @@ The experimental data used in the manuscript are not included here for the momen
 Clone the repository:
 
 ```bash
-git clone https://github.com/Claire-Dore/disk-defect-toy-model.git
+git clone https://github.com/Claire-Dore/toy-model-disk-defect.git
 cd disk-defect-toy-model
